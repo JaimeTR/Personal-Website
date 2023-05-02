@@ -18,7 +18,7 @@ const englishJSON = {
 		title: "About",
 		paragraph1: (
 			<>
-				My name is Camila Paladines, I'm a <p>Frontend Developer</p> at Ninus and a <p>Computer Science student</p> at Pontificia Universidad Javeriana in Cali, Colombia. I'm passionate about
+				My name is Jaime Tarazona, I'm a <p>Frontend Developer</p> at Devmark and a <p>Computer Science student</p> at Pontificia Universidad Javeriana in Cali, Colombia. I'm passionate about
 				designing and developing web applications that are very useful for people.
 			</>
 		),

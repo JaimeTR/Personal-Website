@@ -11,15 +11,15 @@ const spanishJSON = {
 	},
 	home: {
 		hi: "Hola, soy",
-		job: "Desarrolladora Frontend",
+		job: "Desarrollador Frontend",
 		button: "Contáctame",
 	},
 	about: {
 		title: "Sobre mí",
 		paragraph1: (
 			<>
-				Mi nombre es Camila Paladines, soy <p>Desarrolladora Frontend</p> en Ninus y <p>estudiante de Ingeniería de Sistemas y Computación</p> en la Pontificia Universidad Javeriana en Cali,
-				Colombia. Me apasiona diseñar y desarrollar aplicaciones web que sean muy útiles para las personas.
+				Mi nombre es Jaime Tarazona, soy <p>Desarrollador Frontend</p> en Devmark y <p>estudiante de Ingeniería de Sistemas</p> en la Universidad Cesar Vallejo, en
+				Perú. Me apasiona diseñar y desarrollar aplicaciones web que sean muy útiles para las personas.
 			</>
 		),
 		paragraph2:
